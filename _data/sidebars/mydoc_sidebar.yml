@@ -57,16 +57,11 @@ entries:
     - title: Trở thành người đóng góp
       url: //mydoc_nothing_post.html
       output: web, pdf
+  
+  - title: Những ý tưởng trong machine learning
+    output: web, pdf
 
-  - title: Tag archives
-    output: web
     folderitems:
-
-    - title: Tag archives overview
-      url: //mydoc_nothing_post.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
+    - title: Những bài viết của giáo sư Richard S. Sutton
+      url: //mydoc_incompleteideas.html
+      output: web, pdf

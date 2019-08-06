@@ -1,11 +1,12 @@
 ---
-title: News
+title: Loạt bài của giáo sư Richard S. Sutton về AI nói chung và machine learning nói riêng
 hide_sidebar: true
-keywords: news, blog, updates, release notes, announcements
-permalink: news.html
+keywords: new ai, machinelearning, Richard S. Sutton, incompleteideas
+permalink: mydoc_incompleteideas.html
 toc: false
 folder: news
 ---
+
 <div class="home">
 
     <div class="post-list">
