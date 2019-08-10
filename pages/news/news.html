@@ -9,7 +9,7 @@ folder: news
 <div class="home">
 
     <div class="post-list">
-        {% for post in site.posts %}
+        {% for post in site.categories.news %}
 
 
     <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
