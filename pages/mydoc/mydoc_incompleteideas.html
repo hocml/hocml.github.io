@@ -10,7 +10,7 @@ folder: news
 <div class="home">
 
     <div class="post-list">
-        {% for post in site.categories.incompleteideas limit:10 %}
+        {% for post in site.categories.incompleteideas %}
 
 
     <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
@@ -27,7 +27,6 @@ folder: news
         <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
 
 <hr />
-        <p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>
 
     </div>
 </div>
