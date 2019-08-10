@@ -63,5 +63,5 @@ entries:
 
     folderitems:
     - title: Những bài viết của giáo sư Richard S. Sutton
-      url: //mydoc_incompleteideas.html
+      url: /mydoc_incompleteideas.html
       output: web, pdf
