@@ -2,7 +2,7 @@
 hide_sidebar: true
 title:  "Định nghĩa sự thông minh"
 categories: newai
-permalink: 2019-08-06-the-definition-of-intelligence-post.html
+permalink:  2019-08-06-the-definition-of-intelligence-post.html
 tags: [the definition of intelligence, machine learning, AI, mathematics]
 ---
 
