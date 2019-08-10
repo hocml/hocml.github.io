@@ -1,7 +1,7 @@
 ---
 hide_sidebar: true
 title:  "Bài học cay đắng - The bitter lession"
-categories: imcompleteideas
+categories: incompleteideas
 permalink: 2019-08-05-the-bitter-lession-post.html
 tags: [new AI, machinelearning, AI, mathematics]
 ---
