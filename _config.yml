@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: hocml/hocml.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -18,7 +18,7 @@ github_editme_path: hocml/hocml.github.io/blob/reviews/
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: idratherbewriting
+disqus_shortname: hocml
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 google_analytics: UA-143768445-1
@@ -36,9 +36,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Thắc Mắc Về Trang hocml.github.io
 
-feedback_email: tomjoht@gmail.com
+feedback_email: nguyensinhtuit97@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true

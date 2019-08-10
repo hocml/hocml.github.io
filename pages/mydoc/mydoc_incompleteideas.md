@@ -1,5 +1,5 @@
 ---
-title: Loạt bài của giáo sư Richard S. Sutton về AI nói chung và machine learning nói riêng
+title: Loạt bài của giáo sư Richard S. Sutton về AI và machine learning
 hide_sidebar: true
 keywords: new ai, machinelearning, Richard S. Sutton, incompleteideas
 permalink: mydoc_incompleteideas.html
@@ -10,7 +10,7 @@ folder: news
 <div class="home">
 
     <div class="post-list">
-        {% for post in site.posts limit:10 %}
+        {% for post in site.categories.incompleteideas limit:10 %}
 
 
     <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
